@@ -9,6 +9,6 @@ Memory usage was designed for an Arduino Leonardo, doesn't work on a Uno.
 
 The code contains italian words as it had to be easily readable from many people.
 
-<p>
-    <img align="center" src="assets/flowchart.png">
+<p align="center">
+    <img src="assets/flowchart.png">
 </p>
